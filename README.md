@@ -1,2 +1,2 @@
-# Portfolio/Resume-website
-# This is a simple Resume website using html and css
+## Portfolio/Resume-website
+ This is my simple Resume website using html, css, javascript
