@@ -7,7 +7,7 @@
         body {
             font-family: Arial, sans-serif;
             padding: 20px;
-            background-color: #f9edfb;
+            background: linear-gradient(135deg,#f8f9fa,#eabff1,#f8f9fa);
             transform: translateY(50px);
             animation: slideIn 2s ease-out forwards;
         }
@@ -36,7 +36,7 @@
         article {
             background: #fff;
             padding: 30px;
-            border-radius: 5px;
+            border-radius: 10px;
             box-shadow: 0 0 20px rgba(0,0,0,0.1);
             background-color: #f7f6f9;
             margin: 30px;
