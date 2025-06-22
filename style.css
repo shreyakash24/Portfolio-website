@@ -108,21 +108,27 @@
         header{
           flex-direction: column;
         }
-        body, td, th{
+        p, td, th{
           font-size: 16px;
         }
-        #animatedHeader, h1, h2 {
+        #animatedHeader, h2 {
           font-size: 20px;
+        }
+        h1{
+          font-size: 30px;
         }
       }
       @media (max-width: 500px){
         header{
           flex-direction: column;
         }
-        body, td, th{
+        p, td, th{
           font-size: 14px;
         }
-        #animatedHeader, h1, h2{
+        #animatedHeader, h2{
           font-size: 16px;
+        }
+        h1{
+          font-size: 20px;
         }
       }
