@@ -123,7 +123,7 @@
           flex-direction: column;
         }
         p, td, th{
-          font-size: 14px;
+          font-size: 10px;
         }
         #animatedHeader, h2{
           font-size: 16px;
