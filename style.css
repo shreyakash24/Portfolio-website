@@ -108,7 +108,7 @@
         header{
           flex-direction: column;
         }
-        body{
+        body, td, th{
           font-size: 16px;
         }
         #animatedHeader, h1, h2 {
@@ -116,7 +116,10 @@
         }
       }
       @media (max-width: 500px){
-        body{
+        header{
+          flex-direction: column;
+        }
+        body, td, th{
           font-size: 14px;
         }
         #animatedHeader, h1, h2{
