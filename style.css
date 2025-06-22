@@ -104,29 +104,19 @@
         from, to { border-color: transparent; }
         50% { border-color: black; }
       }
-      @media (max-width: 600px){
-        header{
-          flex-direction: column;
-        }
-        p, td, th{
-          font-size: 16px;
-        }
-        h2 {
-          font-size: 20px;
-        }
-        h1, #animatedHeader{
-          font-size: 30px;
-        }
-      }
+      
       @media (max-width: 500px){
         header{
           flex-direction: column;
         }
+        p, td, th, a{
+          font-size: 12px;
+        }
         h2{
-          font-size: 16px;
+          font-size: 18px;
         }
         h1, #animatedHeader{
-          font-size: 20px;
+          font-size: 22px;
         }
         article{
           margin: 10px;
