@@ -109,17 +109,17 @@
           flex-direction: column;
         }
         body{
-          font-size: small;
+          font-size: 16px;
         }
-        #animatedHeader, h1 {
-          font-size: medium;
+        #animatedHeader, h1, h2 {
+          font-size: 20px;
         }
       }
       @media (max-width: 500px){
         body{
-          font-size: smaller;
+          font-size: 14px;
         }
         #animatedHeader, h1 {
-          font-size: small;
+          font-size: 16px;
         }
       }
