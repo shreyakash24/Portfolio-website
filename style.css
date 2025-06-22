@@ -131,4 +131,7 @@
         h1{
           font-size: 20px;
         }
+        article{
+          margin: 20px;
+        }
       }
