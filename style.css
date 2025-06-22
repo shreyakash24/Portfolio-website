@@ -119,7 +119,7 @@
         body{
           font-size: 14px;
         }
-        #animatedHeader, h1 {
+        #animatedHeader, h1, h2{
           font-size: 16px;
         }
       }
