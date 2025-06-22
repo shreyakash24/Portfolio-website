@@ -106,4 +106,10 @@
         header{
           flex-direction: column;
         }
+        body{
+          font-size: small;
+        }
+        #animatedHeader, h1 {
+          font-size: medium;
+        }
       }
